@@ -11,10 +11,10 @@ estado: Completa   # borrador | completa
 
 
 - Objetivo 1: Construir un oscilador (555 astable) que haga parpadear un LED, calcular su frecuencia y duty teóricos, medirlos y comparar ✅  
--Objetivo 2: Generar un pulso de duración fija cada vez que
+- Objetivo 2: Generar un pulso de duración fija cada vez que
 presionas un botón: el principio detrás de retardos,
 temporizadores y antirrebote por hardware ❌ <br>
- ya no pude realizar el 555 en monoestable
+ ya no pude realizar el 555 en monoestable ya que al realizar el astable tuve una representacion visual de como realizar la practica y la imagen del monoestable no pude comprenderlo en su totalidad y al realizar la practica solo fue un poco mas dificil
 
 ## Materiales
 
@@ -31,13 +31,11 @@ C = 100nF (cerámico) <br>
 Protoboard, cables, fuente 5V regulada <br>
 
 ## Desarrollo
-*2–4 fotos o capturas TUYAS, cada una con un pie de foto de una línea diciendo qué muestra.
-Si mediste algo, va la tabla — la tabla ES la evidencia.*
-
-![Pie de foto: qué muestra esta imagen]
-<video>
-<source src= "555 astable.mp4" type="video/mp4">
-</video>
+<img width="1200" height="1600" alt="555 astable imagen" src="https://github.com/user-attachments/assets/974603d5-5acd-4e02-a783-7bd07fff8b41" />
+Muestra la estructura y conexión del circuito 555 astable
+<img width="621" height="476" alt="esquemático" src="https://github.com/user-attachments/assets/97eeabc0-3418-46d4-8569-a682590bfd07" />
+Esquemático en Tinkerkad
+<video witdth="1200" height="1600" alt="555 astable" src="https://github.com/user-attachments/assets/744cf928-f955-4f13-8cbe-8792c7a70a8b" />
 
 | Magnitud | Teórico | Medido | % error | ¿Con qué lo mediste?|
 |---|---|---|---|---|
@@ -47,6 +45,8 @@ Si mediste algo, va la tabla — la tabla ES la evidencia.*
 |Duty (%)| 52.4| 49.3| 5.91%| Osciloscopio|
 |I del LED (mA)| 4.55| 2.31| 49.23%| Multímetro|
 
+<video witdth="1200" height="1600" alt="555 astable oscilospio" src="https://github.com/user-attachments/assets/3535b8a8-af3c-4b4d-8e55-3b3a7b996e5b" />
+Muestra el circuito 555 en funcionamiento y su conexión con el osciloscopio y el multímetro para realizar las mediciones de la señal generada; Durante la práctica del circuito 555 astable. En el osciloscopio conecté la señal de salida al pin 3 y el GND para visualizar la onda generada. Con la función de medición pude obtener valores como el voltaje alto, la frecuencia y Duty Cycle. También observé que el parpadeo del LED, permitió comprobar que el circuito estaba generando una señal periódica. Finalmente, utilicé el multímetro para medir el voltaje de alimentación y realizar las mediciones necesarias en el circuito.
 ## Fallas
 
 
@@ -61,18 +61,3 @@ Aprendi a como utilizar el osciloscopio, la capacidad de las resistencia son de 
 ## Siguiente paso
 
 Comprender mejor el circuito 555 en monoestable y el astable
-
-
-
-
-
-
-https://github.com/user-attachments/assets/744cf928-f955-4f13-8cbe-8792c7a70a8b
-
-
-
-<video witdth="1200" height="1600" alt="555 astable oscilospio" src="https://github.com/user-attachments/assets/3535b8a8-af3c-4b4d-8e55-3b3a7b996e5b" />
-
-
-<img width="1200" height="1600" alt="555 astable imagen" src="https://github.com/user-attachments/assets/974603d5-5acd-4e02-a783-7bd07fff8b41" />
-
