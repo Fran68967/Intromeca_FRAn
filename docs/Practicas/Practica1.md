@@ -9,7 +9,6 @@ estado: Completa   # borrador | completa
 
 ## Objetivos
 
-
 - Objetivo 1: Construir un oscilador (555 astable) que haga parpadear un LED, calcular su frecuencia y duty teóricos, medirlos y comparar ✅  
 - Objetivo 2: Generar un pulso de duración fija cada vez que
 presionas un botón: el principio detrás de retardos,
