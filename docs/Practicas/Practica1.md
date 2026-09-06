@@ -1,3 +1,4 @@
+
 ---
 titulo: "Tarea: (P1) — Temporizdor 555"
 fecha: 2026-09-05
@@ -35,9 +36,7 @@ Protoboard, cables, fuente 5V regulada <br>
 Si mediste algo, va la tabla — la tabla ES la evidencia.*
 
 ![Pie de foto: qué muestra esta imagen]
-<video>
-<source src= "555 astable.mp4" type="video/mp4">
-</video>
+(https://github.com/user-attachments/assets/1448a908-a28f-44e0-9b3d-0d7d57e8a5c6)
 
 | Magnitud | Teórico | Medido | % error | ¿Con qué lo mediste?|
 |---|---|---|---|---|
