@@ -41,7 +41,7 @@ Esquemático en Tinkerkad
 |---|---|---|---|---|
 | Vcc (V) | 5 | 5 | 0% | Multímetro|
 | V de salida en ALTO (V)| 3.5 | 4.42 | 26.28% | Osciloscopio|
-|Frecuencia (Hz)| 0.69| 557.2| 80,653.62%| Osciloscopio|
+|Frecuencia (Hz)| 0.69| 1.258| 82.31%| Osciloscopio|
 |Duty (%)| 52.4| 49.3| 5.91%| Osciloscopio|
 |I del LED (mA)| 4.55| 2.31| 49.23%| Multímetro|
 
