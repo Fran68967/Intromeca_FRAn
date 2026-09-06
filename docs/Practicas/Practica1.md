@@ -5,7 +5,7 @@ autor: "Francisco Javier Pérez Hernández"
 estado: Completa   # borrador | completa
 ---
 
-# Sesión ## — Título P1
+# Tarea - P1
 
 ## Objetivos
 
@@ -13,7 +13,7 @@ estado: Completa   # borrador | completa
 - Objetivo 2: Generar un pulso de duración fija cada vez que
 presionas un botón: el principio detrás de retardos,
 temporizadores y antirrebote por hardware ❌ <br>
- ya no pude realizar el 555 en monoestable ya que al realizar el astable tuve una representacion visual de como realizar la practica y la imagen del monoestable no pude comprenderlo en su totalidad y al realizar la practica solo fue un poco mas dificil
+  No pude realizar el 555 monoestable, ya que al realizar el astable tuve una representacion visual de como realizar el circuito y la imagen del monoestable no pude comprenderlo en su totalidad, y al realizar la actividad de manera individual fue un poco más difícil.
 
 ## Materiales
 
@@ -45,17 +45,18 @@ Esquemático en Tinkerkad
 |I del LED (mA)| 4.55| 2.31| 49.23%| Multímetro|
 
 <video width="1200" height="1600" alt="555 astable oscilospio" src="https://github.com/user-attachments/assets/3535b8a8-af3c-4b4d-8e55-3b3a7b996e5b"></video>
-Muestra el circuito 555 en funcionamiento y su conexión con el osciloscopio y el multímetro para realizar las mediciones de la señal generada. Durante la práctica del circuito 555 astable. En el osciloscopio conecté la señal de salida al pin 3 y el GND para visualizar la onda generada. Con la función de medición pude obtener valores como el voltaje alto, la frecuencia y Duty Cycle. También observé que el parpadeo del LED, permitió comprobar que el circuito estaba generando una señal periódica. Finalmente, utilicé el multímetro para medir el voltaje de alimentación y realizar las mediciones necesarias en el circuito.
+Muestra el circuito 555 en funcionamiento y su conexión con el osciloscopio y el multímetro para realizar las mediciones de la señal generada. <br>
+Durante la práctica del circuito 555 astable, conecté el osciloscopio con el pin 3 y el GND para visualizar la onda generada. Y de esta manera pude, obtener valores como el voltaje alto, la frecuencia y Duty Cycle. También observé que el parpadeo del LED, permitió comprobar que el circuito estaba generando una señal periódica. Finalmente, utilicé el multímetro para medir el voltaje de alimentación y realizar las mediciones necesarias para la tabla.
 
 ## Fallas
-- **Síntoma: Durante la realización de la practica el led solo se queda prendido y tenia que apagarse y prender** ...
-- **Cómo lo encontré: El foco se quedaba prendido y con ayuda de la maestra me ayudo a detectra la falla de la dirreción del temporizador estaba mal** ...
-- **Solución: Cambiar de direccion el temporizador 555, guiandome por la muesca** ...
+- **Síntoma: Durante la realización de la práctica el LED se mantenía encendido, en lugar de apagarse y encender** 
+- **Cómo lo encontré: Con la orientación de la maestra, me ayudó a detectar que el NE555 estaba mal colocado**
+- **Solución: Cambiar de direccion el temporizador 555, guiandome por la muesca**
 
 ## Aprendizajes
 
-Aprendi a como utilizar el osciloscopio, la capacidad de las resistencia son de suma importancia ya que estas pueden afectar en el resultado desde no prender el led o varirar en los resultados, de igual manera pude comprender que estos circuitos son el principio para comprender sistemas mas complicados que incluso pueden integrarlos como en sistemas de alarmas
+Aprendí a utilizar el osciloscopio. Comprendí la importancia de seleccionar adecuadamente los valores de las resistencias, ya que estas pueden afectar en el resultado desde no prender el led o varirar en las medciones. De igual manera pude comprender que estos circuitos son el principio para comprender y desarrollar sistemas más complicados que incluso se utilizan día a día, como en sistemas de alarmas.
 
 ## Siguiente paso
 
-Comprender mejor el circuito 555 en monoestable y el astable
+Comprender de mejor manera el funcionamiento del circuito 555 monoestable y astable
