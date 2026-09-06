@@ -45,7 +45,8 @@ Esquemático en Tinkerkad
 |Duty (%)| 52.4| 49.3| 5.91%| Osciloscopio|
 |I del LED (mA)| 4.55| 2.31| 49.23%| Multímetro|
 
-https://github.com/user-attachments/assets/d933106a-4335-4efe-a41f-bfddc1c60837
+
+https://github.com/user-attachments/assets/9b6fb9b3-010e-4e95-ad6d-f49885f7fa5d
 
 Muestra el circuito 555 en funcionamiento y su conexión con el osciloscopio y el multímetro para realizar las mediciones de la señal generada. <br>
 Durante la práctica del circuito 555 astable, conecté el osciloscopio con el pin 3 y el GND para visualizar la onda generada. Y de esta manera pude, obtener valores como el voltaje alto, la frecuencia y Duty Cycle. También observé que el parpadeo del LED, permitió comprobar que el circuito estaba generando una señal periódica. Finalmente, utilicé el multímetro para medir el voltaje de alimentación y realizar las mediciones necesarias para la tabla.
