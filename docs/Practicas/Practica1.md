@@ -44,6 +44,7 @@ Esquemático en Tinkerkad
 |Frecuencia (Hz)| 0.69| 1.258| 82.31%| Osciloscopio|
 |Duty (%)| 52.4| 49.3| 5.91%| Osciloscopio|
 |I del LED (mA)| 4.55| 2.31| 49.23%| Multímetro|
+Las resistencias eran de diferente capacidad es por ello que influyeron en el resultado y dieron uno distinto a lo teórico
 
 <video width="1200" height="1600" controls src="https://github.com/user-attachments/assets/9b6fb9b3-010e-4e95-ad6d-f49885f7fa5d"></video>
 
