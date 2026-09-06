@@ -45,7 +45,7 @@ Esquemático en Tinkerkad
 |Duty (%)| 52.4| 49.3| 5.91%| Osciloscopio|
 |I del LED (mA)| 4.55| 2.31| 49.23%| Multímetro|
 
-
+<video>
 https://github.com/user-attachments/assets/9b6fb9b3-010e-4e95-ad6d-f49885f7fa5d
 
 Muestra el circuito 555 en funcionamiento y su conexión con el osciloscopio y el multímetro para realizar las mediciones de la señal generada. <br>
