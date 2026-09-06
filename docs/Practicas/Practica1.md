@@ -35,7 +35,7 @@ Protoboard, cables, fuente 5V regulada <br>
 Muestra la estructura y conexión del circuito 555 astable
 <img width="621" height="476" alt="esquemático" src="https://github.com/user-attachments/assets/97eeabc0-3418-46d4-8569-a682590bfd07" />
 Esquemático en Tinkerkad
-<video witdth="1200" height="1600" alt="555 astable" src="https://github.com/user-attachments/assets/744cf928-f955-4f13-8cbe-8792c7a70a8b" />
+
 
 | Magnitud | Teórico | Medido | % error | ¿Con qué lo mediste?|
 |---|---|---|---|---|
