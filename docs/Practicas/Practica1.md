@@ -13,7 +13,7 @@ estado: Completa   # borrador | completa
 - Objetivo 2: Generar un pulso de duración fija cada vez que
 presionas un botón: el principio detrás de retardos,
 temporizadores y antirrebote por hardware ❌ <br>
-  No pude realizar el 555 monoestable, ya que al realizar el astable tuve una representacion visual de como realizar el circuito y la imagen del monoestable no pude comprenderlo en su totalidad, y al realizar la actividad de manera individual fue un poco más difícil.
+  No pude realizar el 555 monoestable, ya que al realizar el astable tuve una representacion visual de como realizar el circuito y la imagen del monoestable no pude comprenderlo en su totalidad, y al realizar la actividad de manera individual fue más complejo.
 
 ## Materiales
 
