@@ -1,4 +1,3 @@
-
 ---
 titulo: "Tarea: (P1) — Temporizdor 555"
 fecha: 2026-09-05
@@ -36,7 +35,9 @@ Protoboard, cables, fuente 5V regulada <br>
 Si mediste algo, va la tabla — la tabla ES la evidencia.*
 
 ![Pie de foto: qué muestra esta imagen]
-(https://github.com/user-attachments/assets/1448a908-a28f-44e0-9b3d-0d7d57e8a5c6)
+<video>
+<source src= "555 astable.mp4" type="video/mp4">
+</video>
 
 | Magnitud | Teórico | Medido | % error | ¿Con qué lo mediste?|
 |---|---|---|---|---|
@@ -60,3 +61,18 @@ Aprendi a como utilizar el osciloscopio, la capacidad de las resistencia son de 
 ## Siguiente paso
 
 Comprender mejor el circuito 555 en monoestable y el astable
+
+
+
+
+
+
+https://github.com/user-attachments/assets/744cf928-f955-4f13-8cbe-8792c7a70a8b
+
+
+
+<video witdth="1200" height="1600" alt="555 astable oscilospio" src="https://github.com/user-attachments/assets/3535b8a8-af3c-4b4d-8e55-3b3a7b996e5b" />
+
+
+<img width="1200" height="1600" alt="555 astable imagen" src="https://github.com/user-attachments/assets/974603d5-5acd-4e02-a783-7bd07fff8b41" />
+
