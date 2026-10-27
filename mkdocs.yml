@@ -55,3 +55,8 @@ nav:
       - "Proyecto 1": Proyectos/Proyecto1.md
   - "Reflexiones":
       - "Vision Mecatronica": Reflexiones/VisionMecatronica.md
+  - "Proyecto de Ingeniería 1":
+      - "Clase 1 - SolidWorks": ProyectoDeIngenieria/Clase1.md
+      - "Clase 2 - Bitácora": ProyectoDeIngenieria/Clase2.md
+      - "Clase 3 - Ensambles": ProyectoDeIngenieria/Clase3.md
+      - "Clase 4 - Corte láser": ProyectoDeIngenieria/Clase4.md
