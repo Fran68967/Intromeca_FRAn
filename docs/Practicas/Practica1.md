@@ -63,8 +63,4 @@ Aprendí a utilizar el osciloscopio. Comprendí la importancia de seleccionar ad
 
 ## Siguiente paso
 
-<<<<<<< HEAD
 Comprender mejor el circuito 555 en monoestable y el astable
-=======
-Comprender de mejor manera el funcionamiento del circuito 555 monoestable y astable
->>>>>>> f72f6a52949efd9c75ff255b38ab6cb8a568792f
