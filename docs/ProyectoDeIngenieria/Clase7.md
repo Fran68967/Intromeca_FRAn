@@ -36,4 +36,4 @@ Aprendí que en la impresión 3D la orientación de la pieza y la holgura de las
 
 ## Archivo del proyecto
 
-[🧊 Descargar modelo 3D (.STL)](archivos/profe_god_1.stl)
+[Descargar modelo 3D (.STL)](archivos/profe_god_1.stl)

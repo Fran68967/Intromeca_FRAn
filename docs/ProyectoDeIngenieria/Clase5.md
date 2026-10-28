@@ -71,4 +71,4 @@ Aprendí que el ensamble digital ahorra mucho material, porque los errores se ve
 
 Piezas 3D, ensamble, planos 2D y archivos DXF:
 
-[📦 Descargar archivos del Carrito F1 (.ZIP)](https://andyy-py.github.io/Proyecto-inge/Bitacora/ZIPS/Carrito.zip)
+[Descargar archivos del Carrito F1 (.ZIP)](https://andyy-py.github.io/Proyecto-inge/Bitacora/ZIPS/Carrito.zip)
